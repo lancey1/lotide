@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@lancey1/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the lodash Javascript library for educational purposes.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/lancey1/lotide.git"
   },
-  "author": "",
+  "author": "Lance Y",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lancey1/lotide/issues"
